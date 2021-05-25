@@ -1,3 +1,5 @@
 # Space-Invaders-Game
 
-Left and Right arrow to move and change options, space to shoot and accept an option.
+Left and Right arrow to move and change options, space to shoot and accept an option.\
+
+To open, run the game/Launcher.java file
